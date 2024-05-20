@@ -1,4 +1,4 @@
-<h2>👋🏼 Hi, I’m Karen Galvão</h2>
+<h2>👋🏼 Hi, I’m Karen Galvão 👩🏻‍💻✨</h2>
 📚 I'm a Full Stack student at Digital College <br>
 🚀 I'm currently learning HTML, CSS, JavaScript and ReactJS
 <br>
