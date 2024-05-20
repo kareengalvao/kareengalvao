@@ -2,6 +2,7 @@
 📚 I'm a Full Stack student at Digital College <br>
 🚀 I'm currently learning HTML, CSS and JavaScript
 <br>
+<br>
 
 <div>
   <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
