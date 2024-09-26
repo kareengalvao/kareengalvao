@@ -24,3 +24,7 @@
  <a href="https://www.discord.com/kareengalvao" alt="Discord" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-6959CD?style=for-the-badge&labelColor=6959CD&logo=Discord&logoColor=white&link=https://www.Discord.com/kareengalvao">
  </a>
+
+ <a href="https://www.linkedin.com/in/kareengalvao" alt="Linkidin" target="_blank">
+  <img src="https://img.shields.io/badge/-linkidin-1E90FF?style=for-the-badge&labelColor=1E90FF&logo=linkdin&logoColor=white&link=https://www.linkedin.com/in/kareengalvao">
+ </a>
