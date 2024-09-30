@@ -26,5 +26,5 @@
  </a>
 
  <a href="https://www.linkedin.com/in/kareengalvao" alt="Linkidin" target="_blank">
-  <img src="https://img.shields.io/badge/-linkidin-1E90FF?style=for-the-badge&labelColor=1E90FF&logo=linkdin&logoColor=white&link=https://www.linkedin.com/in/kareengalvao">
+  <img src="https://img.shields.io/badge/-linkedin-1E90FF?style=for-the-badge&labelColor=1E90FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kareengalvao">
  </a>
