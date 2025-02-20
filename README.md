@@ -8,7 +8,7 @@ I completed a Full Stack development course where I learned how to build full ap
 <h3>🛠️ Technologies and Tools:</h3><br>
 	•	Front-end: HTML, CSS, JavaScript, React<br>
 	•	Back-end: Node.js, Express, APIs<br>
-	•	Databases: MySQL, MongoDB<br>
+	•	Databases: MySQL, PostgreSQL<br>
 	•	Version Control: Git, GitHub 
  <br> <br>
 
