@@ -1,7 +1,16 @@
-<h2>👋🏼 Hi, I’m Karen Galvão 👩🏻‍💻✨</h2>
-📚 I'm a Full Stack student at Digital College <br>
-<br>
-<br>
+<h3>💻 About Me</h3>
+
+<h2>Hello! I am Karen Galvão, a Full Stack Developer and Software Engineering student. 👩🏻‍💻</h2>
+
+I completed a Full Stack development course where I learned how to build full applications, from front-end to back-end. Currently, I am deepening my knowledge at university and exploring new technologies to become an even more well-rounded programmer.
+<hr>
+
+<h3>🛠️ Technologies and Tools:</h3><br>
+	•	Front-end: HTML, CSS, JavaScript, React<br>
+	•	Back-end: Node.js, Express, APIs<br>
+	•	Databases: MySQL, MongoDB<br>
+	•	Version Control: Git, GitHub 
+ <br> <br>
 
 <div>
   <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -13,9 +22,13 @@
   <img align="center" alt="Postegri" height="30" width="50" src="https://miro.medium.com/v2/resize:fit:610/1*lZrXmWJRDLqIImJThs5Lrw.png" />
   </div>
   <br>
-  <hr>
-  <h3>🌱 Redes Sociais:</h3>
 
+<h3> 📚 Always Learning…</h3>
+
+I am currently studying Software Engineering and improving my skills in web development, software architecture, and best programming practices.
+
+  
+<h3>📫 How to Reach Me?</h3> <br>
   <a href="https://www.instagram.com/kareengalvao" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/kareengalvao">
 </a>
@@ -26,4 +39,6 @@
 
  <a href="https://www.linkedin.com/in/kareengalvao" alt="Linkidin" target="_blank">
   <img src="https://img.shields.io/badge/-linkedin-1E90FF?style=for-the-badge&labelColor=1E90FF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kareengalvao">
- </a>
+ </a> <br><br>
+
+ <h1>Always open to new opportunities and challenges! 🚀</h1>
