@@ -7,7 +7,7 @@ I completed a Full Stack development course where I learned how to build full ap
 
 <h3>🛠️ Technologies and Tools:</h3><br>
 	•	Front-end: HTML, CSS, JavaScript, React<br>
-	•	Back-end: Node.js, Express, APIs<br>
+	•	Back-end: Node.js, Express, APIs, Java<br>
 	•	Databases: MySQL, PostgreSQL<br>
 	•	Version Control: Git, GitHub 
  <br> <br>
@@ -20,6 +20,7 @@ I completed a Full Stack development course where I learned how to build full ap
   <img align="center" alt="React" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQFtEyXJg4vHdkl_XpdTlwMRzJOg_9g5uhQ&s" />
   <img align="center" alt="Mysql" height="30" width="40" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" />
   <img align="center" alt="Postegri" height="30" width="50" src="https://miro.medium.com/v2/resize:fit:610/1*lZrXmWJRDLqIImJThs5Lrw.png" />
+  <img align="center" alt="Java" height="50" width="70" src="https://www.macworld.com/wp-content/uploads/2023/01/learn_java_on_mac.jpg?quality=50&strip=all](https://assets.dio.me/NWp0ked1gAcRd2n_uPBhJUJVmS5mkR31t0YiPMYMdpA/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzdiODlmZGEyLTRhZjMtNGFlMC05OGJjLWFkMmI2NTg1NDkwOS5wbmc)"/>
   </div>
   <br>
 
